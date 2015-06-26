@@ -5,6 +5,7 @@ body {
 .partone h1{
 	text-align: center;
 	font-size:50px;
+	color:#AFAFAF;
 }
 IMG.fixpic{
 	display:block;
@@ -15,7 +16,17 @@ IMG.fixpic{
 }
 .bio h2{
 	text-align:center;
+	color:#AFAFAF;
 }
 .hobbies h2{
 	text-align:center;
+	color:#AFAFAF;
+}
+.contact hw{
+	text-align:center;
+	color:#AFAFAF;
+}
+p{
+	text-align:center;
+	color:#D7D7D7;
 }
