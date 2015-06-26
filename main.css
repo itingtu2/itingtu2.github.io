@@ -6,13 +6,16 @@ body {
 	text-align: center;
 	font-size:50px;
 }
-.partone p{
-	font-size:25px;
-}
 IMG.fixpic{
 	display:block;
 	width:600px;
 	height:550px;
 	margin-left: auto;
     margin-right: auto;
+}
+.bio h2{
+	text-align:center;
+}
+.hobbies h2{
+	text-align:center;
 }
