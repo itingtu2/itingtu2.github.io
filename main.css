@@ -1,10 +1,8 @@
-.partone{
-	height:200px;
-	background-image: url(firstpic.JPG);
-}
 .partone h1{
+	color:#fff;
 	font-size:50px;
 }
 .partone p{
+	color:#fff;
 	font-size:25px;
 }
