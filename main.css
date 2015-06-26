@@ -1,6 +1,9 @@
 
+body {
+    background-color: #ffe8f3;
+}
 .partone h1{
-
+	text-align: center;
 	font-size:50px;
 }
 .partone p{
